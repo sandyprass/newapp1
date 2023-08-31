@@ -4,7 +4,7 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      refreshed site
+      <span>new site</span>
     </div>
   );
 }
