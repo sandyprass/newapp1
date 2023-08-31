@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/sandyprass/newapp1/static/css/main.073c9b0a.css",
+    "main.js": "/sandyprass/newapp1/static/js/main.8ddd4a3c.js",
+    "static/js/787.ec78c698.chunk.js": "/sandyprass/newapp1/static/js/787.ec78c698.chunk.js",
+    "static/media/logo.svg": "/sandyprass/newapp1/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/sandyprass/newapp1/index.html",
+    "main.073c9b0a.css.map": "/sandyprass/newapp1/static/css/main.073c9b0a.css.map",
+    "main.8ddd4a3c.js.map": "/sandyprass/newapp1/static/js/main.8ddd4a3c.js.map",
+    "787.ec78c698.chunk.js.map": "/sandyprass/newapp1/static/js/787.ec78c698.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.8ddd4a3c.js"
+  ]
+}
